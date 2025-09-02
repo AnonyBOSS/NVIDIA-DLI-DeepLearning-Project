@@ -9,3 +9,5 @@ This project demonstrates **transfer learning** using PyTorch:
 - Freeze base layers and replace classifier head.
 - Train the classifier on a fruit dataset.
 - Evaluate the model using accuracy and confusion matrix.
+
+Dataset: http://3.236.22.139/lab/lab/tree/data
